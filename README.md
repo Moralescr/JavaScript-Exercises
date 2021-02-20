@@ -1,2 +1,2 @@
 # JavaScript-Exercises
-Examples for job interview
+Job interview examples
