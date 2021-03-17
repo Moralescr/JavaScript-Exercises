@@ -1,11 +1,11 @@
 
-let number = prompt('Introduce un número');
+let num = prompt('Introduce un número');
 
-for(i = 0; i <= num; num++){
+for(let i = 2; i <= num; i++){
 
-    if(num % 2 === 0){
-        console .log(`El número ${num} es par`);
+    if(i % 2 === 0){
+        console .log(`El número ${i} es par`);
     } else{
-        console.log(`El número ${num} es impar`);
+        console.log(`El número ${i} es impar`);
     }
 }
