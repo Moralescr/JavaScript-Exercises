@@ -1,7 +1,7 @@
 
 let num = prompt('Introduce un número');
 
-for(let i = 2; i <= num; i++){
+for(let i = 1; i <= num; i++){
 
     if(i % 2 === 0){
         console .log(`El número ${i} es par`);
